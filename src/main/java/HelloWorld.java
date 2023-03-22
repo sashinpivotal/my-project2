@@ -7,6 +7,7 @@ class HelloWorld {
 
     public static void main(String[] args) {
         // comment #1
+        // comment #2
 
         String s1 = "hello";
         String s2 = "hello";
